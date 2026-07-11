@@ -12,21 +12,12 @@
 
 ---
 
-<table border="0">
-  <tr>
-    <td width="70%" valign="top">
-      <h3>🔮 About Me</h3>
-      <p>Full-Stack Engineer building high-performance web applications and scale-critical open-source systems.</p>
-      <ul>
-        <li>🎓 <b>Fellowship @ <a href="https://github.com/internetarchive/openlibrary">Internet Archive (OpenLibrary)</a></b> — Modernizing backend services by migrating <b>27+ legacy endpoints</b> to <b>FastAPI</b> (contributions <a href="https://github.com/pulls?q=is%3Apr+author%3AShikhar-395+archived%3Afalse+is%3Aclosed">here</a>).</li>
-        <li>🏗️ <b>Full Stack Developer @ <a href="https://github.com/pskrane">Krane Apps</a></b> — Designing robust APIs and crafting fluid user experiences with React and Next.js.</li>
-      </ul>
-    </td>
-    <td width="30%" valign="middle" align="center">
-      <img src="./duck.jpg" width="180" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="Cool Duck" />
-    </td>
-  </tr>
-</table>
+### 🔮 About Me
+
+Full-Stack Engineer building high-performance web applications and scale-critical open-source systems.
+
+* 🎓 **Fellowship @ [Internet Archive (OpenLibrary)](https://github.com/internetarchive/openlibrary)** — Modernizing backend services by migrating **27+ legacy endpoints** to **FastAPI** (contributions [here](https://github.com/pulls?q=is%3Apr+author%3AShikhar-395+archived%3Afalse+is%3Aclosed)).
+* 🏗️ **Full Stack Developer @ [Krane Apps](https://github.com/pskrane)**
 
 ---
 
@@ -64,8 +55,4 @@ Below, a yellow duck-snake is eating its way through my contribution history!
   </a>
   <a href="https://x.com/8ShikharSingh" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://github.com/Shikhar-395" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
