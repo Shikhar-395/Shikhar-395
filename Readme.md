@@ -1,7 +1,7 @@
 # Hey, I'm Shikhar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Internet+Archive+Fellow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Modernizer;Internet+Archive+Fellowship+Alum" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,18 +12,31 @@
 
 ---
 
-### 🔮 About Me
-
-I'm a full-stack engineer who loves building clean, scalable applications and contributing to open-source ecosystems. I thrive on translating complex problems into elegant, user-friendly solutions.
-
-Here is a snapshot of what I've been working on lately:
-
-*   🏗️ **Full Stack Developer @ [Krane Apps](https://github.com/pskrane)**
-    *   Designing and implementing core features for user-facing applications.
-    *   Architecting scalable APIs and crafting slick frontend experiences.
-*   📚 **Fellow @ [Internet Archive (OpenLibrary)](https://github.com/internetarchive/openlibrary)**
-    *   Migrating backend endpoints to **FastAPI** to modernize the stack.
-    *   Improving database query efficiency and developer workflow.
+<table border="0">
+  <tr>
+    <td width="70%" valign="top">
+      <h3>🔮 About Me</h3>
+      <p>I am a high-impact Full-Stack Engineer focused on building clean, high-performance web applications and contributing to scale-critical open-source ecosystems. I specialize in modernizing legacy architectures and designing robust, developer-friendly APIs.</p>
+      <ul>
+        <li>🎓 <b>Fellowship @ <a href="https://github.com/internetarchive/openlibrary">Internet Archive (OpenLibrary)</a></b>
+          <ul>
+            <li>Leading legacy backend modernization by migrating <b>27+ endpoints</b> to <b>FastAPI</b> (view my contributions <a href="https://github.com/pulls?q=is%3Apr+author%3AShikhar-395+archived%3Afalse+is%3Aclosed">here</a>).</li>
+            <li>Optimizing query performance, request schema validation, and modular service design for millions of readers.</li>
+          </ul>
+        </li>
+        <li>🏗️ <b>Full Stack Developer @ <a href="https://github.com/pskrane">Krane Apps</a></b>
+          <ul>
+            <li>Architecting key features and crafting backend API services.</li>
+            <li>Designing responsive, fluid frontend interfaces with Next.js and React.</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="30%" valign="middle" align="center">
+      <img src="./duck.jpg" width="180" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="Cool Duck" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,6 +55,17 @@ Here is a snapshot of what I've been working on lately:
 
 ---
 
+### 🦆 Contribution Grid
+Below, a yellow duck-snake is eating its way through my contribution history!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shikhar-395/Shikhar-395/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shikhar-395/Shikhar-395/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shikhar-395/Shikhar-395/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 ### 🌐 Let's Connect
 
 <p align="left">
@@ -54,10 +78,4 @@ Here is a snapshot of what I've been working on lately:
   <a href="https://github.com/Shikhar-395" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deanishe/awgo/master/.github/gopher.gif" width="120" alt="Funky coding gif" />
 </p>
