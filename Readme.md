@@ -1,7 +1,7 @@
 # Hey, I'm Shikhar 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Modernizer;Internet+Archive+Fellowship+Alum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Internet+Archive+Fellowship;Full+Stack+Developer;Open+Source+Modernizer" alt="Typing SVG" />
 </p>
 
 <p align="center">
