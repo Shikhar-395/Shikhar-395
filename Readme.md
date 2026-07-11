@@ -1,4 +1,4 @@
-# Hey, I'm Shikhar 👋
+<h1 align="center">Hey, I'm Shikhar 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Internet+Archive+Fellowship;Full+Stack+Developer;Open+Source+Modernizer" alt="Typing SVG" />
@@ -42,15 +42,13 @@ Full Stack Engineer building high performance web applications and scale critica
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
----
+<h3 align="center">🌐 Let's Connect</h3>
 
-
-### 🌐 Let's Connect
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shikhar-singh-164134343/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/8ShikharSingh" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
