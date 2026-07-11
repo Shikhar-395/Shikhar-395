@@ -16,7 +16,7 @@
 
 Full Stack Engineer building high performance web applications and scale critical open source systems.
 
-* 🎓 **Fellowship @ [Internet Archive (OpenLibrary)](https://github.com/internetarchive/openlibrary)** — Modernizing backend services by migrating **27+ legacy endpoints** to **FastAPI** (contributions [here](https://github.com/pulls?q=is%3Apr+author%3AShikhar-395+archived%3Afalse+is%3Aclosed)).
+* 🎓 **Fellowship @ [Internet Archive (OpenLibrary)](https://github.com/internetarchive/openlibrary)** — Modernizing backend infrastructure, migrating legacy endpoints to **FastAPI**, configuring **Nginx rate limiting**, and shipping **27+ PRs** (contributions [here](https://github.com/pulls?q=is%3Apr+author%3AShikhar-395+archived%3Afalse+is%3Aclosed)).
 * 🏗️ **Full Stack Developer @ [Krane Apps](https://github.com/pskrane)**
 
 ---
