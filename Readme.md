@@ -16,20 +16,10 @@
   <tr>
     <td width="70%" valign="top">
       <h3>🔮 About Me</h3>
-      <p>I am a high-impact Full-Stack Engineer focused on building clean, high-performance web applications and contributing to scale-critical open-source ecosystems. I specialize in modernizing legacy architectures and designing robust, developer-friendly APIs.</p>
+      <p>Full-Stack Engineer building high-performance web applications and scale-critical open-source systems.</p>
       <ul>
-        <li>🎓 <b>Fellowship @ <a href="https://github.com/internetarchive/openlibrary">Internet Archive (OpenLibrary)</a></b>
-          <ul>
-            <li>Leading legacy backend modernization by migrating <b>27+ endpoints</b> to <b>FastAPI</b> (view my contributions <a href="https://github.com/pulls?q=is%3Apr+author%3AShikhar-395+archived%3Afalse+is%3Aclosed">here</a>).</li>
-            <li>Optimizing query performance, request schema validation, and modular service design for millions of readers.</li>
-          </ul>
-        </li>
-        <li>🏗️ <b>Full Stack Developer @ <a href="https://github.com/pskrane">Krane Apps</a></b>
-          <ul>
-            <li>Architecting key features and crafting backend API services.</li>
-            <li>Designing responsive, fluid frontend interfaces with Next.js and React.</li>
-          </ul>
-        </li>
+        <li>🎓 <b>Fellowship @ <a href="https://github.com/internetarchive/openlibrary">Internet Archive (OpenLibrary)</a></b> — Modernizing backend services by migrating <b>27+ legacy endpoints</b> to <b>FastAPI</b> (contributions <a href="https://github.com/pulls?q=is%3Apr+author%3AShikhar-395+archived%3Afalse+is%3Aclosed">here</a>).</li>
+        <li>🏗️ <b>Full Stack Developer @ <a href="https://github.com/pskrane">Krane Apps</a></b> — Designing robust APIs and crafting fluid user experiences with React and Next.js.</li>
       </ul>
     </td>
     <td width="30%" valign="middle" align="center">
