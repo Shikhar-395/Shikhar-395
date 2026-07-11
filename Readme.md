@@ -14,7 +14,7 @@
 
 ### 🔮 About Me
 
-Full-Stack Engineer building high-performance web applications and scale-critical open-source systems.
+Full Stack Engineer building high performance web applications and scale critical open source systems.
 
 * 🎓 **Fellowship @ [Internet Archive (OpenLibrary)](https://github.com/internetarchive/openlibrary)** — Modernizing backend services by migrating **27+ legacy endpoints** to **FastAPI** (contributions [here](https://github.com/pulls?q=is%3Apr+author%3AShikhar-395+archived%3Afalse+is%3Aclosed)).
 * 🏗️ **Full Stack Developer @ [Krane Apps](https://github.com/pskrane)**
@@ -37,7 +37,7 @@ Full-Stack Engineer building high-performance web applications and scale-critica
 ---
 
 ### 🦆 Contribution Grid
-Below, a yellow duck-snake is eating its way through my contribution history!
+Below, a yellow duck snake is eating its way through my contribution history!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shikhar-395/Shikhar-395/output/github-contribution-grid-snake-dark.svg" />
