@@ -1,7 +1,7 @@
 <h1 align="left">Welcome!</h1>
 
 <p align="left">
-  <img src="https://media1.tenor.com/m/hg44dLL12KwAAAAC/cat-flowers-cat-flower.gif" alt="Cat holding a bouquet of roses" />
+  <img src="duck.gif" alt="Cute duck" />
 </p>
 
 <h3 align="left">About Me</h3>
