@@ -1,1 +1,16 @@
-<img src="duck.gif" alt="Cute duck" />
+<h1 align="left">Welcome!</h1>
+
+<p align="left">
+  <img src="duck.gif" alt="Cute duck" />
+</p>
+
+<h3 align="left">About Me</h3>
+
+<p align="left">
+  Krane Apps — Sept 2025-26<br>
+  Fellow - Internet Archive / OpenLibrary
+</p>
+
+<p align="left">
+  <img src="https://media1.tenor.com/m/ue6EqnqRVo0AAAAC/enso-shortcats.gif" alt="Cat using a laptop" />
+</p>
